@@ -1,0 +1,6 @@
+# Node modules
+user-service/node_modules/
+action-history-service/node_modules/
+
+# TypeScript build output
+action-history-service/dist/
